@@ -1,0 +1,56 @@
+/* header{
+    z-index:;
+} */
+header .btn1{
+    background-color: rgba(241, 196, 15,1.0);
+    color: white;
+    border-style: none;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#btn{
+    background-color: rgba(241, 196, 15,0.3);
+    color: rgba(241, 196, 15,1.0);
+    border-radius: 20px;
+
+}
+#banner h1{
+    
+    font-size: 3rem;
+    
+}
+#btn2{
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 20px;
+}
+/* #line{
+    line-height: 0.7;
+} */
+.row #img-1{
+    width: 200px;
+    height: 200px;
+}
+#col-1{
+    background-color: rgba(149, 165, 166,1.0);
+    gap: 2;
+}
+#img-last{
+    background: url('https://images.unsplash.com/photo-1610348725531-843dff563e2c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHZlZ2V0YWJsZXxlbnwwfHwwfHx8MA%3D%3D') no-repeat 0 0;
+    background-size: cover;
+    height: 80vh;
+    position: relative;
+}
+.get{
+    position: absolute;
+    bottom: 70px;
+    right: 260px;
+    
+}
+.get h1{
+    font-size: 4rem;
+}
+#f-1{
+    text-align: justify;
+}
